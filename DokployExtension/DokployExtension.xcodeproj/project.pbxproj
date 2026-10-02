@@ -208,7 +208,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WRLMP5LJND;
+				DEVELOPMENT_TEAM = DDB8SQMXS9;
 				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@loader_path/Frameworks");
@@ -232,7 +232,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WRLMP5LJND;
+				DEVELOPMENT_TEAM = DDB8SQMXS9;
 				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@loader_path/Frameworks");
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
