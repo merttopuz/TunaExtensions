@@ -215,7 +215,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mert.tuna.dokploy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brnbw.tuna.plugins.dokploy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -237,7 +237,7 @@
 				LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@loader_path/Frameworks");
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mert.tuna.dokploy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brnbw.tuna.plugins.dokploy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -264,7 +264,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mert.tuna.dokploy.tests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brnbw.DokployExtensionTests;
 				PRODUCT_MODULE_NAME = DokployExtensionTests;
 				PRODUCT_NAME = DokployExtensionTests;
 				SDKROOT = macosx;
@@ -279,7 +279,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mert.tuna.dokploy.tests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brnbw.DokployExtensionTests;
 				PRODUCT_MODULE_NAME = DokployExtensionTests;
 				PRODUCT_NAME = DokployExtensionTests;
 				SDKROOT = macosx;

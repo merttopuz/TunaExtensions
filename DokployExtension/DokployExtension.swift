@@ -69,8 +69,8 @@ enum DokployCatalogIDs {
 }
 
 extension TypeID {
-  static let dokployApplication = TypeID("com.mert.type.dokploy-application")
-  static let dokployCompose = TypeID("com.mert.type.dokploy-compose")
+  static let dokployApplication = TypeID("com.tuna.type.dokploy-application")
+  static let dokployCompose = TypeID("com.tuna.type.dokploy-compose")
 }
 
 /// A configured Dokploy server. The API key only ever lives inside `configuration`.
